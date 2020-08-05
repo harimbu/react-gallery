@@ -1,6 +1,4 @@
-react gallery
-
-# firebase
+# firebase react gallery
 
 ### firestore
 
